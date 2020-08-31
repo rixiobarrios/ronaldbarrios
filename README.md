@@ -1,8 +1,10 @@
 <img width="746" src="https://user-images.githubusercontent.com/55994508/81608292-a83ceb00-939b-11ea-8244-f0f224b54f9d.png" alt="logo" style="display: block; margin: 0 auto" />
 
-# Project# 5: Latin Percussionist by Rixio Barrios
+# PROJECT 2: GA-SEIR-129
 
-# Overview
+## Artist Profile: Latin Percussionist
+
+## Overview
 
 This is my passion project that replace the current representation of the artist. Latin Percussionist is a professional portafolio that captures the work of Ronald Barrios; A Latin Percussionist living in Europe and who happens to be my brother.
 
