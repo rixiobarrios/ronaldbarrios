@@ -1,6 +1,6 @@
 <img width="746" src="https://user-images.githubusercontent.com/55994508/81608292-a83ceb00-939b-11ea-8244-f0f224b54f9d.png" alt="logo" style="display: block; margin: 0 auto" />
 
-# PROJECT 2: GA-SEIR-129
+# PROJECT 5: GA-SEIR-129
 
 ## Artist Profile: Latin Percussionist
 
