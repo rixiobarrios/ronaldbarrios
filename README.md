@@ -6,6 +6,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fce5bbf0-aa90-4611-a0e9-890361b4a3e7/deploy-status)](https://app.netlify.com/sites/ronaldbarrios/deploys)
 
+Documentation for Project# 1 Assignment by General Assembly](https://www.notlinkedyet.com)
+
 ## Overview
 
 This is my passion project that replace the current representation of the artist. Latin Percussionist is a professional portafolio that captures the work of Ronald Barrios; A Latin Percussionist living in Europe and who happens to be my brother.
