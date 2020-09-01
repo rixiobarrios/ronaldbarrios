@@ -10,7 +10,7 @@
 
 ## Overview
 
-This is my passion project that replace the current representation of the artist. Latin Percussionist is a professional portafolio that captures the work of Ronald Barrios; A Latin Percussionist living in Europe and who happens to be my brother.
+This is my passion project that replaces the current representation of the artist. Latin Percussionist is a professional portafolio that captures the work of Ronald Barrios; A Latin Percussionist living in Europe and who happens to be my brother.
 
 ## Table of Contents
 
