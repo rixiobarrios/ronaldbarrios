@@ -4,8 +4,6 @@
 
 ## Artist Profile: Latin Percussionist
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fce5bbf0-aa90-4611-a0e9-890361b4a3e7/deploy-status)](https://app.netlify.com/sites/ronaldbarrios/deploys)
-
 [Documentation for Project# 5 Assignment by General Assembly](https://www.notlinkedyet.com)
 
 ## Overview
@@ -34,7 +32,7 @@ This is my passion project that replaces the current representation of the artis
 
 # My Rendering Link
 
--   [Latin Percussionist](https://www.ronaldbarrios.com)
+-   [Latin Percussionist](https://ronald-barrios.web.app/home)
 
 # The Project Setup
 
