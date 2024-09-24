@@ -28,7 +28,7 @@ This is my passion project that replaces the current representation of the artis
 
 # Previous Website Link
 
--   [Ronald Barrios](http://www.ronaldbarrios.info/)
+-   [Ronald Barrios](https://ronaldbarrios.weebly.com/)
 
 # My Rendering Link
 
